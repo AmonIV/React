@@ -1,0 +1,11 @@
+.tasks-list-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    height: calc(100vh - 100px);
+    justify-content: space-between;
+}
+
+.status {
+    border: 1px solid black;
+    padding: 20px;
+}

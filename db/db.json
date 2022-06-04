@@ -1,0 +1,240 @@
+{
+  "users": [
+    {
+      "id": "f529a9c7-b5bb-4d3c-a451-825c03b12013",
+      "role": "user",
+      "isActive": true,
+      "picture": "https://picsum.photos/200/300?random=1",
+      "name": "Kelly Johns",
+      "email": "kellyjohns@caxt.com",
+      "phone": "+1 (977) 521-3716",
+      "address": "585 Desmond Court, Ezel, Pennsylvania, 3419",
+      "password": "123"
+    },
+    {
+      "id": "c3cd55ff-03e8-4e06-b4ee-fab89847958c",
+      "role": "user",
+      "isActive": false,
+      "picture": "https://picsum.photos/200/300?random=2",
+      "name": "Tami Carlson 3",
+      "email": "tamicarlson@caxt.com",
+      "phone": "+1 (988) 494-2020",
+      "address": "515 Hazel Court, Hondah, Alaska, 8525",
+      "password": "123"
+    },
+    {
+      "id": "c5a4e854-9689-4eb0-979a-12212d838d2b",
+      "role": "user",
+      "isActive": false,
+      "picture": "https://picsum.photos/200/300?random=3",
+      "name": "Rosemarie Schneider",
+      "email": "rosemarieschneider@caxt.com",
+      "phone": "+1 (942) 477-2273",
+      "address": "355 Troutman Street, Hebron, Missouri, 3018"
+    },
+    {
+      "id": "70ad681a-75b0-4f05-8f80-cd5f36de57df",
+      "role": "user",
+      "isActive": false,
+      "picture": "https://picsum.photos/200/300?random=4",
+      "name": "Silva Patton",
+      "email": "silvapatton@caxt.com",
+      "phone": "+1 (941) 545-2163",
+      "address": "571 Brooklyn Road, Ellerslie, Florida, 7824"
+    },
+    {
+      "id": "7cb88485-534b-4f61-a8e3-07a7fa3bd47f",
+      "role": "user",
+      "isActive": false,
+      "picture": "https://picsum.photos/200/300?random=5",
+      "name": "Bertha Gray",
+      "email": "berthagray@caxt.com",
+      "phone": "+1 (861) 443-2680",
+      "address": "419 Sumner Place, Bellamy, Connecticut, 5480"
+    },
+    {
+      "id": "621a4870-695e-4601-b845-590fca7be53c",
+      "role": "user",
+      "isActive": false,
+      "picture": "https://picsum.photos/200/300?random=6",
+      "name": "Alfreda Miranda",
+      "email": "alfredamiranda@caxt.com",
+      "phone": "+1 (930) 411-3183",
+      "address": "600 Lincoln Terrace, Wilsonia, Maryland, 716"
+    },
+    {
+      "isActive": false,
+      "role": "user",
+      "name": "Todor",
+      "picture": "https://picsum.photos/200/300?random=0.10356863333188082",
+      "email": "todor@mail.com",
+      "phone": "123",
+      "address": "adress1",
+      "id": "qQXy3wq"
+    },
+    {
+      "isActive": false,
+      "role": "user",
+      "name": "kellyjohns@caxt.com",
+      "picture": "kellyjohns@caxt.com",
+      "email": "kellyjohns@caxt.comfdsafdsfds",
+      "phone": "kellyjohns@caxt.com",
+      "address": "kellyjohns@caxt.com",
+      "password": "",
+      "id": "OEmkWRK"
+    },
+    {
+      "isActive": true,
+      "role": "admin",
+      "name": "fdsfd",
+      "picture": "https://picsum.photos/200/300?random=0.4628852867917759",
+      "email": "email@test.com",
+      "phone": "fdfads",
+      "address": "fdfds",
+      "password": "123",
+      "id": "bsKCtov"
+    }
+  ],
+  "tasks": [
+    {
+      "title": "test EDITED",
+      "description": "tretre",
+      "dueDate": "Fri Jul 01 2022",
+      "status": "In Review",
+      "authorId": "bsKCtov",
+      "authorName": "fdsfd",
+      "createdDate": "Fri May 20 2022",
+      "id": 2
+    },
+    {
+      "title": "task 1",
+      "description": "descr 1",
+      "dueDate": "Wed Jun 01 2022",
+      "status": "Done",
+      "authorId": "fdsgfgfdgf",
+      "authorName": "fdsfd",
+      "createdDate": "Fri May 20 2022",
+      "id": 3
+    },
+    {
+      "title": "tettte",
+      "description": "sadsdsds",
+      "dueDate": "Mon May 16 2022",
+      "status": "In Progress",
+      "authorId": "gsffgsfgsf",
+      "authorName": "gsfgsfgf",
+      "createdDate": "Fri May 20 2022",
+      "id": 4
+    },
+    {
+      "title": "Task 1 new",
+      "description": "fsgfsgfd",
+      "dueDate": "Tue May 31 2022",
+      "status": "In Review",
+      "authorId": "f529a9c7-b5bb-4d3c-a451-825c03b12013",
+      "authorName": "Kelly Johns",
+      "createdDate": "Fri May 27 2022",
+      "id": 5
+    }
+  ],
+  "status": [],
+  "customers": [
+    {
+      "id": "1",
+      "fullName": "John Doe",
+      "email": "email@test.com",
+      "phone": "kellyjohns@caxt.com",
+      "password": "123",
+      "role": "admin",
+      "isActive": true
+    },
+    {
+      "isActive": true,
+      "fullName": "Jack Joe",
+      "email": "email3@test.com",
+      "phone": "123567",
+      "password": "456",
+      "role": "customer",
+      "id": "BstaJUV"
+    },
+    {
+      "isActive": false,
+      "fullName": "Rob Bob",
+      "email": "email4@test.com",
+      "phone": "987654",
+      "password": "987",
+      "id": "PrF6GXl"
+    }
+  ],
+  "vehicles": [
+    {
+      "id": "1",
+      "type": "economy",
+      "brand": "Opel",
+      "model": "Mk2",
+      "constructionYear": "2013",
+      "fuelType": "petrol",
+      "numberOfSeats": "4",
+      "picture": "https://picsum.photos/200/300?random=0.4628852867917759",
+      "pricePerDay": "20",
+      "count": "7"
+    },
+    {
+      "type": "economy",
+      "brand": "Kluk",
+      "model": "Kvako",
+      "constructionYear": "2018",
+      "fuelType": "petrol",
+      "numberOfSeats": "6",
+      "picture": "https://picsum.photos/200/300?random=0.15223324132225358",
+      "pricePerDay": "95",
+      "count": "6",
+      "": "electric",
+      "id": "fC3SMoh"
+    }
+  ],
+  "rentals": [
+    {
+      "id": "1",
+      "startDate": "1/4/2021",
+      "startTime": "21:30",
+      "endDate": "1/4/2021",
+      "endTime": "21:30",
+      "completion": "inProgress",
+      "vehicleID": "1",
+      "customerID": "1"
+    },
+    {
+      "startDate": "Sat Jun 04 2022",
+      "startTime": "2022-06-13",
+      "endDate": "Thu Jun 09 2022",
+      "endTime": "2022-06-10",
+      "completion": "inProgress",
+      "vehicleId": "1",
+      "customerId": "1",
+      "": "complete",
+      "id": "gZVZD4x"
+    },
+    {
+      "startDate": "Sat Jun 04 2022",
+      "startTime": "2022-06-08",
+      "endDate": "Sat Jun 18 2022",
+      "endTime": "2022-06-19",
+      "completion": "inProgress",
+      "vehicleId": "1",
+      "customerId": "PrF6GXl",
+      "id": "ZgLynSc"
+    },
+    {
+      "startDate": "Sat Jun 04 2022",
+      "startTime": "2022-06-02",
+      "endDate": "Thu Jun 02 2022",
+      "endTime": "2022-06-30",
+      "completion": "inProgress",
+      "vehicleId": "fC3SMoh",
+      "customerId": "Rob Bob",
+      "": "complete",
+      "id": "GeSK5ak"
+    }
+  ]
+}
